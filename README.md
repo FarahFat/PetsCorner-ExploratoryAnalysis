@@ -1,9 +1,10 @@
 PetsCorner-ExploratoryAnalysis
 This repo is focused on Exploratory Analysis for a Pet's store - PetsConer to gather insights into various aspects of the pet, pet owner, and procedure data.
 With 3 Tables present: 
-1. ProceduresHistory (1).xlsx
-2. ProceduresDetails (1).xlsx
-3. PetOwners (1).xlsx
+1. ProceduresHistory
+2. ProceduresDetails
+3. PetOwners
+4. Pets
 
 Relationships:
 
@@ -12,7 +13,7 @@ Primary Key: OwnerID
 Other Fields: Name, Surname, StreetAddress, City, State, StateFull, ZipCode
 Pets Table (Assumed based on SQL queries):
 
-Pets Table 
+Pets Table: 
 Primary Key: PetID
 Foreign Key: OwnerID (References PetOwners)
 Other Fields: Name, Kind, Gender, Age, etc.
