@@ -31,32 +31,32 @@ Other Fields: Description, Price
 
 Based on the queries, insights were generated that addressed varying business cases in the following ways:
 
-Customer Relationship Management (CRM):
+1. Customer Relationship Management (CRM):
 Insight: By listing all pet owners alongside their pets, businesses can understand household compositions and schedule services accordingly.
 Application: This insight allows for personalized follow-ups, appointment scheduling, and tailored communications that speak directly to the owner's needs, improving customer service and relationship management.
 Service Optimization:
 
-Service Optimization:
+2. Service Optimization:
 Insight: Procedures history can highlight which procedures are most common or bring in the most revenue.
 Application: The business can use this information to streamline operations, allocate resources to high-demand services, and adjust pricing or offer promotions on less popular services to increase their uptake.
 Targeted Marketing Strategies:
 
-Targeted Marketing Strategies:
+3. Targeted Marketing Strategies:
 Insight: The combined data of pet owners, pets, and procedures can identify cross-selling and up-selling opportunities.
 Application: Marketing campaigns can be specifically targeted to segments of the customer base, such as offering dental services to pet owners who frequently purchase grooming services but have never availed of dental care.
 Spending Behavior Analysis:
 
-Spending Behavior Analysis:
+4. Spending Behavior Analysis:
 Insight: Queries that calculate the total spending per pet owner can identify high, medium, and low spenders.
 Application: This segmentation enables the creation of loyalty programs or tiered service packages to encourage increased spending from low-tier customers and maintain the loyalty of high-tier customers.
 Demographic Analysis:
 
-Demographic Analysis:
+5. Demographic Analysis:
 Insight: Age and gender data for pets, coupled with procedure data, can reveal demographic trends such as life stage-specific service requirements.
 Application: The business can develop and market service packages appropriate for different life stages of pets, such as puppy/kitten care bundles or senior pet health check-ups.
 Operational Efficiency:
 
-Operational Efficiency:
+6. Operational Efficiency:
 Insight: The frequency of procedures and their types can indicate peak usage times and popular services.
 Application: This data helps in staffing decisions, inventory management, and scheduling optimization to improve overall operational efficiency.
 
