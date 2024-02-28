@@ -7,7 +7,6 @@ With 3 Tables present:
 4. Pets
 
 Relationships:
-
 PetOwners Table:
 Primary Key: OwnerID
 Other Fields: Name, Surname, StreetAddress, City, State, StateFull, ZipCode
