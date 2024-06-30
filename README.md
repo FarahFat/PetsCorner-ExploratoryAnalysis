@@ -1,5 +1,5 @@
 PetsCorner-ExploratoryAnalysis
-This repo is focused on Exploratory Analysis for a Pet's store - PetsConer to gather insights into various aspects of the pet, pet owner, and procedure data.
+This repo is focused on Exploratory Analysis for a Pet's store - PetsCorner to gather insights into various aspects of the pet, pet owner, and procedure data.
 With 3 Tables present: 
 1. ProceduresHistory
 2. ProceduresDetails
